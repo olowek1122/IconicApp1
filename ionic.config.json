@@ -1,6 +1,8 @@
 {
   "name": "IconicApp1",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "fe56128b"
 }
